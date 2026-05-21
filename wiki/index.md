@@ -6,10 +6,10 @@
 
 ## Páginas
 
-| ID | Título | Arquivo | Última atualização | Sessões |
-|---|---|---|---|---|
-| P001 | Visão Geral do Projeto | `wiki/pages/visao-geral-do-projeto.md` | 2026-05-20 | S003 |
-| P002 | Stack e Estrutura do Projeto | `wiki/pages/stack-e-estrutura.md` | 2026-05-20 | S003 |
+| ID   | Título                       | Arquivo                                | Última atualização | Sessões |
+| ---- | ---------------------------- | -------------------------------------- | ------------------ | ------- |
+| P001 | Visão Geral do Projeto       | `wiki/pages/visao-geral-do-projeto.md` | 2026-05-20         | S003    |
+| P002 | Stack e Estrutura do Projeto | `wiki/pages/stack-e-estrutura.md`      | 2026-05-20         | S003    |
 
 ---
 
