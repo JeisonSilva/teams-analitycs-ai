@@ -86,6 +86,15 @@ Após a implementação inicial, o TypeScript foi verificado com `tsc --noEmit` 
 
 ---
 
+## Como aplicar
+
+- Toda nova lógica de análise deve ser implementada dentro de `src/core/` — nunca diretamente em `src/mcp/`.
+- Para expor uma nova capacidade via MCP, criar uma nova tool em `src/mcp/tools/` que importa do `core/`.
+- Antes de adicionar uma nova dependência, verificar se a camada alvo é `core/` (sem dependência de MCP) ou `mcp/` (adaptador de entrega).
+- Configurações de ambiente e acesso a variáveis de processo ficam em `src/shared/config.ts`.
+
+---
+
 ## Histórico de contribuições
 
 | Sessão | Data | O que foi adicionado |

@@ -53,6 +53,14 @@ O projeto é entregue como um servidor MCP (Model Context Protocol), o que permi
 
 ---
 
+## Como aplicar
+
+- Ao avaliar o escopo de uma nova feature, verificar se ela se encaixa em uma das capacidades principais (mapeamento de domínios, análise por desenvolvedor, grupos por especialização, métricas de engajamento). Se não se encaixar, questionar se é uma extensão do core ou uma nova capacidade.
+- Ao apresentar o projeto para um novo stakeholder, usar os dois perfis de usuário (Engenheiro de Software e Gerente/Tech Lead) para enquadrar os benefícios de forma adequada ao público.
+- Toda nova capacidade deve ser entregue via MCP para manter consistência com a forma de entrega definida.
+
+---
+
 ## Histórico de contribuições
 
 | Sessão | Data | O que foi adicionado |
