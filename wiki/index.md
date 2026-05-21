@@ -13,10 +13,11 @@
 | P003 | Tool MCP analyze_repository   | [tool-mcp-analyze-repository.md](pages/tool-mcp-analyze-repository.md) | 2026-05-21 | S004 |
 | P004 | Algoritmos de Análise Git     | [algoritmos-de-analise-git.md](pages/algoritmos-de-analise-git.md)     | 2026-05-21 | S004 |
 | P005 | Agente de Contextualização IA | [agente-de-contextualizacao-ia.md](pages/agente-de-contextualizacao-ia.md) | 2026-05-21 | S004 |
+| P006 | Instalação de MCP no Claude CLI e VS Code | [instalacao-mcp-claude-cli-vscode.md](pages/instalacao-mcp-claude-cli-vscode.md) | 2026-05-21 | S005 |
 
 ---
 
 ## Estatísticas
 
-- Total de páginas: 5
-- Última sessão processada: S004 (2026-05-21)
+- Total de páginas: 6
+- Última sessão processada: S005 (2026-05-21)
